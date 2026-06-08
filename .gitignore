@@ -1,0 +1,11 @@
+Token.py
+
+db.sqlite3
+
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.idea/
